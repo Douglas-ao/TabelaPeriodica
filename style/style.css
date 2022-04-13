@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(241, 237, 237);
+}
+
+.pagina{
+    background-color: white;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*Elementos de dentro da tabela periodica, numero, segla,*/
+.sigla {
+    text-align: center;
+    font-size: 25px;
+}
+
+.elemento {
+    text-align: center;
+    font-size: 12px;
+}
+
+.numero {
+    font-size: 14px;
+    margin-left: 7px;
+}
+
+/*Espaço entre as duas tabelas*/
+
+.espaco-branco {
+    height: 70px;
+}
+
+/*Cores dos elementos*/
+.vermelho {
+    background-color: rgb(210, 4, 4);
+    width: 70px;
+    height: 70px;
+}
+
+.cinza {
+    background-color: rgb(108, 108, 108);
+    width: 70px;
+    height: 70px;
+}
+
+.verde-c {
+    background-color: rgb(55, 150, 55);
+    width: 70px;
+    height: 70px;
+}
+
+.verde-e {
+    background-color: rgb(49, 86, 49);
+    width: 70px;
+    height: 70px;
+}
+
+.laranja {
+    background-color: rgb(250, 79, 17);
+    width: 70px;
+    height: 70px;
+}
+
+.salmao-e {
+    background-color: rgb(222, 38, 18);
+    width: 70px;
+    height: 70px;
+}
+
+.azul-t {
+    background-color: rgb(9, 148, 134);
+    width: 70px;
+    height: 70px;
+}
+
+
+.rosa {
+    background-color: rgb(242, 83, 109);
+    width: 70px;
+    height: 70px;
+}
+
+.roxo-c {
+    background-color: rgb(180, 68, 255);
+    width: 70px;
+    height: 70px;
+}
+.roxo {
+    background-color: rgb(110, 20, 170);
+    width: 70px;
+    height: 70px;
+}
